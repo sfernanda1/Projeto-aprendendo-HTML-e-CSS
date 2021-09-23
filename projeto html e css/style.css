@@ -1,0 +1,33 @@
+body{ 
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color:rgb(157, 93, 218);
+    border: inset 5px black;
+    text-align: justify;
+    
+    
+}
+
+#title, .subtitle, .post_title {
+    color:rgb(2, 16, 22)
+}
+
+.post_title {
+    font-size:16px ;
+    font-style: italic;
+}
+
+.post {
+    border-top: dashed black;
+    background-color: rgb(229, 152, 236);
+    padding: 10px;
+    
+    
+    
+ }
+ .fernanda{
+     border: solid 3px rgb(5, 5, 78);
+    }
+ 
+    .imagem2 {
+        border:dashed 5px black;
+    }
